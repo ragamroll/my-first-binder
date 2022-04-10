@@ -6,5 +6,5 @@ repo to test binder
 # launch-sample-notebook
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ragamroll/my-first-binder/HEAD?urlpath=%2Ftree%2Fsample.ipynb)
 
-# voila
+# Voilà
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ragamroll/my-first-binder/HEAD?urlpath=voila%2Frender%2Fsample.ipynb)
